@@ -1,0 +1,122 @@
+.row {
+	margin-bottom:0;
+	padding:0; 
+}
+.logo1 {
+	width: 10vh;
+	height: 10vh;
+	background: #666666;
+}
+header {
+	background: #cccccc;
+	min-height: 200px;
+}
+body {
+	width: 100%;
+}
+.company {
+	font-weight: bold;
+	font-size: 18px;
+}
+.sss {
+	min-height: 200px;
+}
+.phoneTop {
+	min-height: 200px;
+	padding-right: 20%;
+}
+.companyBest {
+	font-size: 12px;
+}
+.phone {
+	margin-top: -25%;
+}
+.callback {
+	font-weight: bold;
+	border-bottom: dotted 2px; 
+}
+a {
+	color: black;
+}
+nav, .navContainer {
+	min-height: 80px;
+	background: #666666;
+	padding-left: 10%;
+	width: 100%;
+}
+.techList {
+	display: inline-block;
+}
+.underline {
+	text-decoration: underline;
+}
+.insideList {
+	margin-left: 5%;
+}
+.insideList:first-child {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.ex {
+/*	display: inline-block;*/
+	width: 10vh;
+	height: 10vh;
+	margin left: 10vh;
+	margin-top: 15%;
+	margin:20px; 
+	margin-bottom: 0;
+
+}
+.price {
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 0;
+
+}
+.nophoto {
+	background: #dbdbdb;
+	min-height: 290px;
+	padding: 8%;
+	margin-bottom:8%;
+}
+.photo {
+	width: 100%;
+}
+.order{
+	margin-top: 20%;
+}
+.nextGoods, .navLinks {
+	display: inline;
+}
+.underlineHover:hover {
+	text-decoration: underline;
+}
+.current {
+	font-size: 18px;
+}
+footer {
+	background-color: #757575;
+	padding-top: 5%;
+
+}
+.mail, .linkFooter {
+	color: white;
+	font-size: 14px;
+}
+.linkFooter {
+	text-decoration: underline;
+}
+.footUl {
+	margin: 0;
+}
+.logo2 {
+	background: white;
+	width: 10vh;
+	height: 10vh;
+}
+.FooterLogo {
+	color: white;
+}
+.ulfooter {
+	margin: 0;
+}
