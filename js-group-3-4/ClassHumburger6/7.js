@@ -103,8 +103,7 @@ console.log('Узнать размер гамбургера: ', hamburger.getSiz
 console.log('Узнать начинку гамбургера: ', hamburger.getStuffing());
 console.log('Узнать цену гамбургера ', hamburger.calculatePrice());
 console.log('Узнать калорийность гамбургера ', hamburger.calculateCalories());
-console.log('Price with sauce: ', hamburger.calculatePrice());
-console.log('Hamburger has toppings: ', hamburger.getToppings().length);
+console.log('Количество toppings ', hamburger.getToppings().length);
 
 // Маленький гамбургер с начинкой из сыра
 const hamburgerOrder = new Hamburger(
